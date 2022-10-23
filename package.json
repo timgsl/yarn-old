@@ -1,0 +1,8 @@
+{
+  "name": "yarn-old",
+  "packageManager": "yarn@3.2.4",
+  "workspaces": [
+    "workspace-a",
+    "workspace-b"
+  ]
+}
